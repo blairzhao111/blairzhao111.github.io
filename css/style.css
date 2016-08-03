@@ -1,0 +1,23 @@
+body {
+    font-family: 'Lato', sans-serif;
+    font-weight: 300;
+	background-color: black;
+	padding-top: 18px;
+	padding-bottom: 18px;
+}
+
+.container {
+	background-color: white;
+	width: 63%;
+	padding-left: 5%;
+	padding-right: 5%;
+}
+
+#main {
+	display: none;
+}
+
+#switch {
+	display: none;;
+}
+
